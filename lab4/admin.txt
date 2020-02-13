@@ -1,0 +1,6 @@
+Username: root
+Password: 48721
+
+Thu Oct 24 11:59:08 ALMT 2019 admin logged in to the system 
+Thu Oct 24 11:59:17 ALMT 2019 admin added a new course OOP
+Thu Oct 24 11:59:30 ALMT 2019 admin added a new textbook OOP

@@ -1,0 +1,7 @@
+ Aliyev Ali- 'E'
+ Ivanov Ivan- 'A'
+ Menshikov Sergey- 'D'
+
+Average - 62
+Maximum - 100
+Minimum - 22
